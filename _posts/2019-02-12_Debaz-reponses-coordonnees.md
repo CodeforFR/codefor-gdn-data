@@ -7,12 +7,12 @@ categories: [granddebat]
 # tags = categories, n'en garder qu'un
 image: assets/images/projets/debaz_reperer.jpg
 description: "Repérer les réponses coordonnées au questionnaire du gouvernement dans le cadre du Grand « débat »"
-featured: false
+featured: true
 hidden: false
 # rating: 4.5
 ---
 
-Cette analyse de Josquin Debaz se concentre sur la longueur des réponses aux questions du grand débat. Le chercheur montre que la plupart des questions ont la même distribution (beaucoup de contributions très courtes, peu de contributions très longues). Cependant, certaines questions affichent un "pic" de contributions à un nombre précis de mots. Il s'agit en fait d'actions coordonnées, où les internautes ont très probablement copié et collé un texte. A partir d'une donnée simple comme la longueur des contributions, il est donc possible d'identifier des réponses coordonnées ! 
+Cette analyse de Josquin Debaz se concentre sur la longueur des réponses aux questions du grand débat. Le chercheur montre que la plupart des questions ont la même distribution (beaucoup de contributions très courtes, peu de contributions très longues). Cependant, certaines questions affichent un "pic" de contributions à un nombre précis de mots. Il s'agit en fait d'actions coordonnées, où les internautes ont très probablement copié et collé un texte. A partir d'une donnée simple comme la longueur des contributions, il est donc possible d'identifier des réponses coordonnées !
 
 #### Sources
 
