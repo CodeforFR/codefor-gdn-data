@@ -1,23 +1,22 @@
 ---
 layout: post
-title:  "Politoscope"
+title:  "Repérer les réponses coordonnées"
 # author
-categories: [ dataviz, granddebat, vraidebat]
+categories: [granddebat]
 # tags: [red, yellow]
 # tags = categories, n'en garder qu'un
-image: assets/images/projets/politiscope_debat.jpg
-description: "Visualisation des thèmes du grand débat"
-featured: true
-hidden: true
+image: assets/images/projets/debaz_reperer.jpg
+description: "Repérer les réponses coordonnées au questionnaire du gouvernement dans le cadre du Grand « débat »"
+featured: false
+hidden: false
 # rating: 4.5
 ---
 
-Ce début d'analyse des contributions au site du #GrandDebatNational (~200k propositions, ~120k contributeurs) montre une grande variété de sous thèmes.
+Cette analyse de Josquin Debaz se concentre sur la longueur des réponses aux questions du grand débat. Le chercheur montre que la plupart des questions ont la même distribution (beaucoup de contributions très courtes, peu de contributions très longues). Cependant, certaines questions affichent un "pic" de contributions à un nombre précis de mots. Il s'agit en fait d'actions coordonnées, où les internautes ont très probablement copié et collé un texte. A partir d'une donnée simple comme la longueur des contributions, il est donc possible d'identifier des réponses coordonnées ! 
 
 #### Sources
 
-L'Institut des Systèmes Complexes a réalisé une "carte" des débats à partir des données du Grand Débat et du Vrai Débat.
+L'article de Josquin Debaz a été publié sur le blog Hypothèses "Socio-informatique et argumentation".
 
-* [Post Twitter](https://twitter.com/Politoscope2017/status/1098612718393876481) annonçant la publication de la carte
-* [Forum de discussion sur les réutilisations lancé par l'ISC](https://discourse.iscpif.fr/t/fonctionnement-de-ce-forum-bienvenus/557).
-* Explication de la [méthodologie](https://politoscope.org/2019/03/gdn-preliminaires/)
+* [Article de blog](https://socioargu.hypotheses.org/5925)
+* [Post Twitter](https://twitter.com/josquindebaz/status/1095350025322934273) annonçant la publication, et suivi d'explications.
