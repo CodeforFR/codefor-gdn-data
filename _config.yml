@@ -1,7 +1,7 @@
 # Site
 name: "Code For France"
 title: "Code For France"
-description: "Projets utilisant les données du Grand Débat National"
+description: "Réutilisation et analyse des données du 'in' et du 'off' du Grand Débat"
 logo: 'assets/images/logo-code-for-france.png'
 favicon: 'assets/images/favicon-code-for-france.png'
 baseurl: '/'
