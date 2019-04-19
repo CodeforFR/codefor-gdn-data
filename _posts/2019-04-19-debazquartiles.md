@@ -7,7 +7,7 @@ categories: [ granddebat]
 # tags = categories, n'en garder qu'un
 image: assets/images/projets/Debaz_2-quartiles.png
 description: "Un aperçu des formes de réponses au questionnaire du gouvernement"
-featured: true
+featured: false
 hidden: false
 # rating: 4.5
 ---

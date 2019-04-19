@@ -5,9 +5,9 @@ title:  "Repérer les réponses coordonnées"
 categories: [granddebat]
 # tags: [red, yellow]
 # tags = categories, n'en garder qu'un
-image: assets/images/projets/debaz_reperer.jpg
+image: assets/images/projets/debaz_reperer.png
 description: "Repérer les réponses coordonnées au questionnaire du gouvernement dans le cadre du Grand « débat »"
-featured: true
+featured: false
 hidden: false
 # rating: 4.5
 ---
