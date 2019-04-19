@@ -49,3 +49,5 @@ adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
+
+theme: jekyll-theme-cayman
