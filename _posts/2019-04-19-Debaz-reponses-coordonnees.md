@@ -2,6 +2,7 @@
 layout: post
 title:  "Repérer les réponses coordonnées"
 # author
+# date : 12 février 2019
 categories: [granddebat]
 # tags: [red, yellow]
 # tags = categories, n'en garder qu'un

@@ -2,6 +2,7 @@
 layout: post
 title:  "Formes de réponses"
 # author
+# date 18 février 2019
 categories: [ granddebat]
 # tags: [red, yellow]
 # tags = categories, n'en garder qu'un

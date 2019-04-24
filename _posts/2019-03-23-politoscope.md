@@ -2,6 +2,7 @@
 layout: post
 title:  "Politoscope"
 # author
+# date 21 février 2019
 categories: [ dataviz, granddebat, vraidebat]
 # tags: [red, yellow]
 # tags = categories, n'en garder qu'un

@@ -2,6 +2,7 @@
 layout: post
 title:  "Cartolabe"
 # author
+# date: 15 mars 2019
 categories: [dataviz, granddebat]
 # tags: [red, yellow]
 # tags = categories, n'en garder qu'un
